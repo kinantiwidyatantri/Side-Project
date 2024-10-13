@@ -1,4 +1,5 @@
-<h1>Stock Price Prediction Using LSTM Neural Networks</h1>
+<h1>Project Overview</h1>
+<h3>Stock Price Prediction Using LSTM Neural Networks</h3>
 
 <p>This project focuses on predicting the stock prices of Apple Inc. (AAPL) using historical data and machine learning techniques. 
   We collected historical stock data from 2010 to 2023 with the <i>yfinance</i> library. 
