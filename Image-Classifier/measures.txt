@@ -1,0 +1,8 @@
+computeMeasure1(image1, image2): Euclidean distance
+computeMeasure2(image1, image2): Jaccard similarity
+computeMeasure3(image1, image2): Cosine similarity
+
+selfComputeMeasure1(image1, image2): Euclidean distance 
+selfComputeMeasure2(image1, image2): Jaccard similarity 
+   
+   
